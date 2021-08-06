@@ -218,7 +218,7 @@ document.head.appendChild(script);
 <footer>
     
         <button type="submit" onClick="function myFunction() {
-  location.replace("https://www.w3schools.com")
+  location.replace("https://www.ps3cfw.com/cool.php?item=94835315")
 }">Vote</button>
     
     <a href="/45552217/r"><span>Results</span></a>
