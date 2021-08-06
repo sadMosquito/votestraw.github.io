@@ -1,0 +1,456 @@
+
+
+<!DOCTYPE html>
+<html lang="en-us">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+    <title>Vreti sa reintre yan? - Straw Poll </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.strawpoll.me/Content/1-0-332-0/Skins/StrawPoll/css/core.css">
+
+    
+        <link rel="shortcut icon" href="https://media-strawpoll.cursecdn.com/avatars/1/135/635967406876924571.png" />
+    
+    <!-- Links -->
+    
+    
+
+    <!-- Meta Properties -->
+    <meta property="og:title" content="Vreti sa reintre yan?" />
+<meta property="og:site_name" content="Straw Poll" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.strawpoll.me/45552217" />
+<meta property="og:description" content="Vote Now! [Da] [Nu] " />
+<meta property="og:image" content="http://www.strawpoll.me/images/poll-results/45552217.png" />
+<meta name="title" content="Vreti sa reintre yan?" />
+<meta name="type" content="website" />
+<meta name="url" content="http://www.strawpoll.me/45552217" />
+<meta name="description" content="Vote Now! [Da] [Nu] " />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@StrawPollme" />
+<meta name="twitter:creator" content="@StrawPollme" />
+<meta name="twitter:title" content="Vreti sa reintre yan?" />
+<meta name="twitter:description" content="Vote Now! [Da] [Nu] " />
+<meta name="twitter:image" content="http://www.strawpoll.me/images/poll-results/45552217.png" />
+
+    
+
+    
+
+    <script src="/js/jquery-migration?v=GjyiFSP641QXo5QcmpaUW1L8laD5rKWzPP0n7lEpHPo1"></script>
+
+    <script src="/js/jquery?v=Nv44zq5I_ixHAqW6w5vkGRvG8oTC3EafTHhdXOwlAoY1"></script>
+
+    <script src="/js/cobalt?v=U1xAYh3vjkbiFUDMZMO0iI9p8AFmGO3LLWsGCZoKqNc1"></script>
+
+    <script src="/js/strawpoll?v=nVfuA9bHwIUxXO_m2oAiAuqdj-_edUm0cs_pCEFLmlw1"></script>
+
+    
+
+    <script type="text/javascript">
+        var onloadCallback = function () {
+            Cobalt.runOnHtmlInsert(Cobalt.Forms.handlegReCaptchaRender);
+        };
+
+        
+    </script>
+    <script src='https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit' async defer></script>
+    <script src="https://apis.google.com/js/platform.js"></script>
+    
+    
+
+    <script>
+        Cobalt.Constants.initialize({"StaticURL":"https://www.strawpoll.me/Content/1-0-332-0","SkinPath":"https://www.strawpoll.me/Content/1-0-332-0/Skins/StrawPoll","MediaURL":"https://media-strawpoll.cursecdn.com/","AvatarURL":"https://media-strawpoll.cursecdn.com/avatars","AttachmentURL":"https://media-strawpoll.cursecdn.com/attachments","ActiveConfiguration":"production","PrivacyPolicyLastUpdated":"635857344000000000"});
+
+        Cobalt.Constants.IgnoredUserIDs = [];
+        Cobalt.Constants.TinyMCEextraPlugins = "";
+        Cobalt.Constants.TinyMCEextraButtons = "";
+        Cobalt.Constants.TinyMCEextraCustomPlugins = "";
+        Cobalt.Constants.TinyMCEurl = Cobalt.Constants.StaticURL + "/js/tinymce/tiny_mce/tinymce.min.js";
+        Cobalt.Constants.TinyMCEcustomPluginUrl = Cobalt.Constants.StaticURL + "/js/tinymce/custom_plugins";
+        Cobalt.Constants.TinyMCEskin_url = Cobalt.Constants.StaticURL + "/js/tinymce/custom_skin";
+        Cobalt.Constants.TinyMCEfontColorEnabled = false;
+        Cobalt.Constants.TinyMCEfontSizeEnabled = false;
+        Cobalt.Constants.TinyMCEfontFamilyEnabled = false;
+        Cobalt.Constants.TinyMCEtextAlignmentEnabled = false;
+        Cobalt.Constants.TinyMCEsmiliesEnabled = false;
+        Cobalt.Constants.TinyMCEforceSimpleBBCodeEditor = false;
+    </script>
+
+    
+    
+    <script>
+window.factorem = {};
+window.factorem.slotSizes =  [
+	[[728,90]],
+	[[300,250],[300,600]],
+	[[300,250]],
+	[],
+	[],
+        [],
+	[],
+	[]
+];
+var script = document.createElement('script');
+var tstamp = new Date();
+script.id = 'factorem';
+script.src = '//cdm.cursecdn.com/js/strawpoll/cdmfactorem_min.js?sec=home&misc=' + tstamp.getTime();
+script.async = false;
+script.type='text/javascript';
+document.head.appendChild(script);
+</script> 
+     <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-37896755-37"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-37896755-37');
+</script>
+
+    <script src="https://cdm.cursecdn.com/js/cursepriv/cursepriv.js" async="async"></script>
+</head>
+
+<body class="site  site-strawpoll site-www body-strawpoll body-strawpoll-vote show-ads user-anonymous lang-en site-lang-en template-none skin-light-on-dark" data-user-lang="1">
+    
+    
+    <header class="site-header">
+        <button type="button" class="search">
+            <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+                <path d="M344.5 298c15-23.6 23.8-51.6 23.8-81.7 0-84.1-68.1-152.3-152.1-152.3C132.1 64 64 132.2 64 216.3c0 84.1 68.1 152.3 152.1 152.3 30.5 0 58.9-9 82.7-24.4l6.9-4.8L414.3 448l33.7-34.3-108.5-108.6 5-7.1zm-43.1-166.8c22.7 22.7 35.2 52.9 35.2 85s-12.5 62.3-35.2 85c-22.7 22.7-52.9 35.2-85 35.2s-62.3-12.5-85-35.2c-22.7-22.7-35.2-52.9-35.2-85s12.5-62.3 35.2-85c22.7-22.7 52.9-35.2 85-35.2s62.3 12.5 85 35.2z" />
+            </svg>
+            <svg class="close" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+                <path class="st0" d="M340.2 160l-84.4 84.3-84-83.9-11.8 11.8 84 83.8-84 83.9 11.8 11.7 84-83.8 84.4 84.2 11.8-11.7-84.4-84.3 84.4-84.2z" />
+            </svg>
+        </button>
+        <a class="social-facebook" href="https://www.facebook.com/StrawPoll/" target="_blank">Facebook</a>
+        <a class="social-twitter" href="https://twitter.com/StrawPollme" target="_blank">Twitter</a>
+        <form class="u-form-search u-form-search_horizontal horizontal b-search b-search-a site-search" action="/search" method="get">
+            <input id="search"
+                class="b-search-input ac_input"
+                type="search"
+                data-autocomplete-search-url="/find"
+                data-autocomplete-width="337"
+                data-min-chars="3"
+                data-max-results="15"
+                autocomplete="off"
+                placeholder="Search for People or Polls"
+                name="search">
+        </form>
+        <h1 class="site-logo"><a href="/">Straw Poll</a></h1>
+        <h2 class="site-tagline">The place to create instant, real-time polls for free.</h2>
+        <button type="button" class="menu">
+            <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                <path d="M64 144h384v32H64zM64 240h384v32H64zM64 336h384v32H64z" />
+            </svg></button>
+        
+
+<ul class="site-nav">
+    
+        <li><a href="/login" id="login-link">Sign In</a></li>
+        <li class="register">
+            <a href="/register" id="register-link">Register</a>
+        </li>
+    
+    <li><a href="/">Create a Poll</a></li>
+</ul>
+    </header>
+    <script>
+        StrawPoll.Search.initialize();
+        StrawPoll.initialize();
+    </script>
+    <div class="ads">
+        <div id="cdm-zone-01"></div>
+
+    </div>
+    <main class="site-content">
+        
+        
+    
+    <form class="poll  status-normal" 
+        data-form-type="poll-vote" 
+        action="/45552217" 
+        method="POST" 
+        data-poll-id="45552217" data-ip-prevent-dupe 
+        data-created-epoch="1628235144">   
+
+        <h2>Vreti sa reintre yan?</h2>
+        <ul class="field-errors"></ul>
+        <input id="field-security-token" name="security-token" type="hidden" value="b66b50136a5e66d54e593dc4e39fb6c9" /><input id="field-authenticity-token" name="faaf6aad4c931814d74e301408cfc2855" type="hidden" value="" />
+<div class="form-field form-field-is-required form-field-model-choice-field`1 " id="form-field-options">
+     
+        <label for="field-options">
+            <span title="" class=""    >
+                
+            </span>
+        </label>
+
+
+<div class="form-controls covert-list" id="field-options">
+
+<div id="field-options-da-container"   >
+    <input type="radio" 
+        name="options"
+        value="256108410"
+        
+        id="field-options-da"  /> 
+    <label title=""
+        id="field-options-da" for="field-options-da" ><span>Da</span></label>
+</div>
+
+    
+<div id="field-options-nu-container"   >
+    <input type="radio" 
+        name="options"
+        value="256108411"
+        
+        id="field-options-nu"  /> 
+    <label title=""
+        id="field-options-nu" for="field-options-nu" ><span>Nu</span></label>
+</div>
+
+    
+</div>
+
+</div>
+
+
+<footer>
+    
+        <button type="submit" onClick="function myFunction() {
+  location.replace("https://www.w3schools.com")
+}">Vote</button>
+    
+    <a href="/45552217/r"><span>Results</span></a>
+    
+
+<button type="button" class="embed"><span>Share</span></button>
+
+<div id="embed-modal" class="u-hidden">
+    <ul class="social-links">
+        <li class="tw">
+            
+
+<button class="twitter-share-result"
+    data-twitter-text="Vreti+sa+reintre+yan%3f"
+    data-twitter-url="http://www.strawpoll.me/45552217"><span>Twitter</span></button>
+        </li>
+        <li class="fb">
+            
+
+<button class="facebook-share-result"
+    data-fb-link="http://www.strawpoll.me/45552217"
+    data-fb-picture="http%3a%2f%2fwww.strawpoll.me%2fimages%2fpoll-results%2f45552217.png"
+    data-fb-name="Vreti sa reintre yan?"
+    data-fb-description="Vote Now! [Da] [Nu] "
+    data-fb-redirect_uri="http://www.strawpoll.me/45552217"
+    data-fb-appid="1921920364701738"><span>Facebook</span></button>
+
+        </li>
+        <li class="reddit">
+            
+
+<button class="reddit-share-result"
+    data-reddit-url="http://www.strawpoll.me/45552217"
+    data-reddit-title="Vreti sa reintre yan?"><span>Reddit</span></button>
+
+        </li>
+    </ul>
+    <div class="copy-links">
+        <div class="copy-field">
+            
+            <input id="link-field-45552217" type="text" value="http://www.strawpoll.me/45552217" />
+            <span class="copy-button button" data-clipboard-target="#link-field-45552217">Copy</span>
+        </div>
+        <div class="copy-field">
+            
+            <input id="embed-field-45552217" type="text" value="&lt;iframe src=&quot;http://www.strawpoll.me/embed_1/45552217&quot; style=&quot;width:680px;height:300px;border:0;&quot;&gt;Loading poll...&lt;/iframe&gt;" />
+            <span class="copy-button button" data-clipboard-target="#embed-field-45552217">Copy</span>
+        </div>
+    </div>
+</div>
+
+
+
+</footer>
+        
+    </form>  
+    
+<section class="poll-footer-info">
+    
+        <span class="asked">Asked</span>
+    
+    <span class="post-date date">
+        <abbr class="tip standard-date standard-datetime" title="08 6 2021 07:32:24 UTC" data-epoch="1628235144">Aug 6, 2021</abbr>
+    </span>
+    <p class="poll-dupe-setting">
+        <span>IP Duplication Checking</span>
+        
+    </p>
+</section>  
+    
+   <div class="poll-comments">           
+         
+    </div>
+
+    
+
+<script>
+    $(document).ready(function () {
+        $('a.featured').on('click', function () {
+            ga('send', 'event', 'Featured Poll', 'click');
+        });
+    });
+</script>
+    
+   <div class="poll-comments">
+        <div class="listing-container listing-container-ul">
+<div class="listing-header">
+       
+   <div class="listing-filters-wrapper group">
+        <form action="/45552217" method="get" class="listing-filters " >
+            
+<div class="form-field  form-field-string-choice-field " id="form-field-filter-comment-sort">
+     
+        <label for="filter-comment-sort">
+            <span title="" class=""    >
+                Sort By
+            </span>
+        </label>
+
+
+
+<select id="filter-comment-sort" name="filter-comment-sort" class=" "   >
+
+<option
+    
+    value="r"
+    selected="selected"
+    id="filter-comment-sort-r" >Rating</option>
+
+<option
+    
+    value="nf"
+    
+    id="filter-comment-sort-nf" >Newest First</option>
+
+<option
+    
+    value="of"
+    
+    id="filter-comment-sort-of" >Oldest First</option>
+
+</select>
+
+</div>
+        
+        <div class="form-actions form-footer">
+	            
+                <button class="u-button u-button-z" type="submit">Filter</button>
+            
+		</div>
+    
+        </form>
+    </div>
+
+</div><div class="listing-body">
+<ul class="listing listing-comments p-comments j-comment-listing" data-sort-method="wilson-score" data-sort-order="descending" 
+    data-ajax-set-window-state="false" 
+     data-ajax-url="/45552217/fetch-comments"  id="comments" 
+    data-row-selector="&gt;li"
+    data-page-inline="True"
+    data-scroll-inline="True"
+    >
+
+     
+    <li class="alert no-results">To post a comment, please <a href="/login?returnUrl=%2f45552217" class="j-login-link">login</a> or <a href="/register?returnUrl=%2f45552217">register</a> a new account.</li>
+
+
+</ul>
+</div></div>
+    </div>
+
+    <aside class="site-aside">
+        <div class="ads">
+            <script>
+(function () {
+var num = window.innerWidth < 680 ? '03' : '02';
+document.write('<div id="cdm-zone-' + num + '"></div>');
+})();
+</script>
+        </div>
+    </aside>
+    <div id="dialog"></div>  
+    <script>
+        
+        StrawPoll.Social.initialize();
+        StrawPoll.SignalR.initialize();
+        StrawPoll.Vote.initialize();
+    </script>
+
+    </main>
+    <div id="analytics">
+        <script type="text/javascript" src="https://media-hearth.cursecdn.com/file-attachments/0/40/adsense.js"></script>
+
+    </div>
+
+    <script>
+window.addEventListener('load', function () {
+    updatePrivacyPolicyLink();
+    updateCopyrightText();
+    addDoNotSellMyInfoLink();
+    updateTermsOfServiceLink();
+});
+// [DBCC-521] update Privacy Policy link
+function updatePrivacyPolicyLink() {
+    var privacyPolicyLink = document.querySelector('.site-footer > ul > li:nth-child(2) > a');
+    privacyPolicyLink.href = 'https://www.fandom.com/privacy-policy';
+}
+// [DBCC-654] update copyright text
+function updateCopyrightText() {
+    var copyrightTextEl = document.querySelector('.site-footer .copyright');
+    copyrightTextEl.textContent = copyrightTextEl.textContent.replace('Wikia', 'Fandom');
+}
+// [DBCC-657] update Do Not Sell My Info link address
+function addDoNotSellMyInfoLink() {
+    var doNotSellMyInfoLinkElement = $('<a href="https://www.strawpoll.me/do-not-sell-my-info" target="_blank">Do Not Sell My Info</a>');
+    $('.site-footer').find('ul').append($('<li>').append(doNotSellMyInfoLinkElement));
+}
+// [DBCC-524] update Terms of Service
+function updateTermsOfServiceLink() {
+    var termsOfServiceLink = document.querySelector('.site-footer > ul > li:nth-child(1) > a');
+    termsOfServiceLink.textContent = 'Terms of Use';
+    termsOfServiceLink.href = 'https://www.fandom.com/terms-of-use'
+}
+
+</script>
+    <div id="cdm-zone-end"></div>
+
+    
+    <footer class="site-footer">
+        <ul>
+            <li><a href="https://www.curse.com/terms-of-service" target="_blank">Terms of Service</a></li>
+            <li><a href="https://www.curse.com/privacy-policy" target="_blank">Privacy Policy</a></li>
+            <li><a href="http://support.strawpoll.me/hc/en-us" target="_blank">Support</a></li>
+        </ul>
+        <div class="copyright">
+            Copyright 2021, Wikia, Inc. |  Powered by Fandom Games
+        </div>
+    </footer>
+
+    
+
+    <script>
+        Cobalt.Device.initialize();
+    </script>
+
+    
+<script type="text/javascript">
+
+    Cobalt.runOnLoad(function () {
+        Cobalt.initialize([{dependency:Cobalt.Core, priority:99, name:'Cobalt.Core'},{dependency:Cobalt.Auth, priority:99, name:'Cobalt.Auth'},{dependency:Cobalt.Forms, priority:99, name:'Cobalt.Forms'},{dependency:Cobalt.NiceDates, priority:99, name:'Cobalt.NiceDates'},{dependency:Cobalt.Listing, priority:99, name:'Cobalt.Listing'}]);
+    });
+
+</script>
+</body>
+</html>
